@@ -1,5 +1,8 @@
 # usteckykraj-gang
 <!DOCTYPE html>
+<head>
+    <title>Kubovo a Andrejovo hlava!</title>
+</head>
 <body>
     <h1>
         INFORMACE JAKUBA MUSILA 
