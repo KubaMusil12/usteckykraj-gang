@@ -1,5 +1,4 @@
 # usteckykraj-gang
-<!DOCTYPE html>
 <head>
     <title>Kubovo a Andrejovo hlava!</title>
 </head>
